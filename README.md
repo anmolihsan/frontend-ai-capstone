@@ -26,7 +26,7 @@ Anmol Ihsan
 
 ### Installation
 ```bash
-git clone https://github.com/<your-username>/frontend-ai-capstone.git
+git clone https://github.com/anmolihsan/frontend-ai-capstone.git
 cd frontend-ai-capstone
 npm install
 #Run
